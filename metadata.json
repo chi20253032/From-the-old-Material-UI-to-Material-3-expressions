@@ -1,0 +1,6 @@
+{
+  "name": "APK to Compose",
+  "description": "Decompile Android APKs and automatically convert XML/Material 2 layouts into beautiful Jetpack Compose Material 3 Expressive code styled with Liquid Glass design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
